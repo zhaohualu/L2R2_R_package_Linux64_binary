@@ -1,0 +1,6 @@
+GetListElement          Test get list. For internal used only.
+Init_MCMCpara           Initialize the list MCMCpara to be used by
+                        L2R2. MCMCpara contains the initial values and
+                        hyperparameters of the parameters
+L2R2                    Estimate the Bayesian longitudinal low-rank
+                        regression models
